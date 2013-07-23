@@ -11,7 +11,7 @@
   <groupId>org.resthub</groupId>
   <artifactId>hessian</artifactId>
   <packaging>jar</packaging>
-  <version>4.0.33</version>
+  <version>4.0.34-SNAPSHOT</version>
   <name>Hessian</name>
 
   <description>A community-maintained version of Hessian, toward a bug free library.</description>
